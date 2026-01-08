@@ -1,0 +1,9 @@
+TXT test file
+Purpose: Provide example of this file type
+Document file type: TXT
+Version: 1.0
+Remark:
+
+Example content:
+Hello everyone, my name is Sumit Nayek, and I am thrilled to be here today. I hold a Master's degree in Statistics, where I delved deeply into the realms of data analysis and research methodologies. My passion for leveraging cutting-edge technologies led me to specialize in the application of Artificial Intelligence and Machine Learning in biomedical imaging during my research endeavors. I am enthusiastic about exploring the multifaceted role of a Data Scientist and Data Analyst, where I can apply my analytical skills and innovative thinking to derive actionable insights from complex datasets. I look forward to sharing my knowledge and contributing to our collective journey towards data-driven excellence.
+
